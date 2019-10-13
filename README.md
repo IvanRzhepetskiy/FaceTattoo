@@ -1,5 +1,4 @@
 # Tattoo Mask
-![alt text](screenshots/Screenshot_1.png)
 Want to see yourself with tattoo? 
 
 ## Built With
@@ -17,4 +16,5 @@ Want to see yourself with tattoo?
 ### Uses our own fonts
 ![alt text](screenshots/Screenshot_3.png)
 
-### Text deformation will be provived soon
+### Text deformation will be provived soon...
+![alt text](screenshots/Screenshot_1.png)
