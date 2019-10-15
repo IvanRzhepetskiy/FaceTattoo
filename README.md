@@ -8,7 +8,7 @@ Want to see yourself with tattoo?
 * [Caffe](https://caffe.berkeleyvision.org/) - Deep learning framework
 * Passion for computer vision
 
-## How to use? Type text, add photo and it will add it automaticly
+## How to use? Type text, add photo and it will add it automatically
 
 ### Detects face, facial landmarks and extracts polygons for tattoo
 ![alt text](screenshots/Screenshot_2.png)
